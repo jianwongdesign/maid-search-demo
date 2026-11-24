@@ -1,0 +1,145 @@
+[
+  {
+    "name": "Grace V.",
+    "id": "grace",
+    "nationality": "Filipino",
+    "years": 10,
+    "low": 650,
+    "high": 760,
+    "languages": [
+      "English",
+      "Tagalog"
+    ],
+    "skills": [
+      "Infant Care",
+      "Child Care",
+      "Cooking",
+      "Cleaning",
+      "Laundry"
+    ],
+    "bio": "Experienced and cheerful helper with strong infant care, childcare, cooking, and household management skills."
+  },
+  {
+    "name": "Rina W.",
+    "id": "rina",
+    "nationality": "Indonesian",
+    "years": 6,
+    "low": 580,
+    "high": 670,
+    "languages": [
+      "Bahasa Indonesia",
+      "English",
+      "Malay"
+    ],
+    "skills": [
+      "Elderly Care",
+      "Cooking",
+      "Cleaning",
+      "Ironing",
+      "Laundry"
+    ],
+    "bio": "Patient and steady helper with elderly care experience and a careful housekeeping routine."
+  },
+  {
+    "name": "Mya H.",
+    "id": "mya",
+    "nationality": "Myanmar",
+    "years": 3,
+    "low": 550,
+    "high": 620,
+    "languages": [
+      "English",
+      "Burmese",
+      "Mandarin"
+    ],
+    "skills": [
+      "Infant Care",
+      "Child Care",
+      "Cleaning",
+      "Cooking"
+    ],
+    "bio": "Gentle and willing helper with infant care exposure, daily cleaning experience, and a positive learning attitude."
+  },
+  {
+    "name": "Priya N.",
+    "id": "priya",
+    "nationality": "Indian",
+    "years": 12,
+    "low": 700,
+    "high": 820,
+    "languages": [
+      "English",
+      "Hindi",
+      "Tamil"
+    ],
+    "skills": [
+      "Elderly Care",
+      "Disabled Care",
+      "Cooking",
+      "Cleaning",
+      "Laundry"
+    ],
+    "bio": "Mature and organized helper with strong elderly and disabled care experience, plus confident home cooking skills."
+  },
+  {
+    "name": "Dewi K.",
+    "id": "dewi",
+    "nationality": "Indonesian",
+    "years": 13,
+    "low": 650,
+    "high": 760,
+    "languages": [
+      "Bahasa Indonesia",
+      "English",
+      "Malay"
+    ],
+    "skills": [
+      "Cooking",
+      "Cleaning",
+      "Child Care",
+      "Pet Care",
+      "Laundry"
+    ],
+    "bio": "Reliable senior helper with many years of cooking, housekeeping, childcare, and small pet care experience."
+  },
+  {
+    "name": "Srey C.",
+    "id": "srey",
+    "nationality": "Cambodian",
+    "years": 4,
+    "low": 560,
+    "high": 640,
+    "languages": [
+      "English",
+      "Malay"
+    ],
+    "skills": [
+      "Cleaning",
+      "Cooking",
+      "Gardening",
+      "Pet Care",
+      "Child Care"
+    ],
+    "bio": "Hardworking and friendly helper with cleaning, cooking, gardening, pet care, and school-age child support experience."
+  },
+  {
+    "name": "Nirmala F.",
+    "id": "nirmala",
+    "nationality": "Sri Lankan",
+    "years": 15,
+    "low": 720,
+    "high": 850,
+    "languages": [
+      "English",
+      "Tamil"
+    ],
+    "skills": [
+      "Elderly Care",
+      "Cooking",
+      "Cleaning",
+      "Laundry",
+      "Ironing"
+    ],
+    "bio": "Very experienced helper with strong elderly care, cooking, laundry, ironing, and home management background."
+  }
+]

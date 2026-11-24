@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="en-SG">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#fcfaf6">
+  <meta name="description" content="Browse sample domestic helper profiles and try booking an interview.">
+  <title>Maid Search · Interview booking demo</title>
+  <link rel="icon" href="data:,">
+  <link rel="stylesheet" href="./style.css">
+  <script src="./app.js" defer></script>
+</head>
+<body>
+  <header class="mast"><div class="wrap bar"><span class="wordmark">Maid Search</span><span class="demo">Booking demo</span></div></header>
+  <main class="wrap">
+    <section class="hero" aria-labelledby="intro">
+      <div class="hero-copy"><h1 id="intro">Find a helper for<br><em>your home.</em></h1>
+        <p>Explore experience, languages and care skills.<br class="wide"> Choose a helper and try booking an interview.</p>
+      </div>
+      <img src="./images/helpers.webp" alt="" fetchpriority="high">
+    </section>
+    <section aria-labelledby="directory">
+      <div class="section-title"><h2 id="directory">Browse helpers</h2><span id="count" role="status"></span></div>
+      <form id="filters" class="filters">
+        <label>Care or skill<select id="skill"><option value="">Any skill</option></select></label>
+        <label>Nationality<select id="nationality"><option value="">Any nationality</option></select></label>
+        <label>Starting salary<select id="budget"><option value="">Any budget</option><option value="600">Up to S$600 / month</option><option value="650">Up to S$650 / month</option><option value="700">Up to S$700 / month</option></select></label>
+        <button id="reset" type="reset">Clear filters</button>
+      </form>
+      <div id="cards" class="grid"></div><p id="notice" role="status">Loading profiles…</p>
+      <noscript>Enable JavaScript to browse profiles and try booking an interview.</noscript>
+    </section>
+  </main>
+  <footer class="wrap">Sample profiles and interview times for demonstration.</footer>
+  <dialog id="profile" aria-labelledby="dialog-title">
+    <div class="dialog-bar"><span id="stage"></span><button type="button" id="close" aria-label="Close dialog">×</button></div>
+    <div id="content"></div>
+  </dialog>
+</body>
+</html>
